@@ -1,2 +1,2 @@
-# ML_Brain_Tumor_Anaylsis_Akshat_Rutuja_Srijha
-Machine Laarning Project CS 6140 Spring 2022
+# ML_Brain_Tumor_Analysis_Akshat_Rutuja_Srijha
+Machine Learning Project CS 6140 Spring 2022
