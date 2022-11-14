@@ -7,3 +7,4 @@ vector machine and various Neural Network models (Convolutional Neural Network, 
 bileNet). will be leveraged to classify the types of tumors from MRI images. The trained models
 will then be tested on unseen MRI images to evaluate which model(s) are more suited for the
 classification of brain tumors which will be followed by a comparative analysis of the models.
+
