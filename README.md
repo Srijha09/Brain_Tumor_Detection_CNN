@@ -1,4 +1,4 @@
-# ML_Brain_Tumor_Analysis_Akshat_Rutuja_Srijha
+# Brain Tumor Detection
 Machine Learning Project CS 6140 Spring 2022
 
 The objective of this project is to explore various supervised machine learning techniques to
